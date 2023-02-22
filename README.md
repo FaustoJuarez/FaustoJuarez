@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fausto Juarez Yelamos</h1>
-<h3 align="center">I am currently an advanced undergrad in Computer Science, dedicating my free time to the Student Branch, and getting more into the world of Machine Learning.</h3>
-
+<blockquote>
+  “The computer was born to solve problems that did not exist before.”
+  <cite>— Bill Gates</cite>
+</blockquote>
 <p align="left"> <a href="https://twitter.com/faustojuarez96" target="blank"><img src="https://img.shields.io/twitter/follow/faustojuarez96?logo=twitter&style=for-the-badge" alt="faustojuarez96" /></a> </p>
 
 - 🔭 I’m currently working on [Computer Vision Thesis](https://github.com/FaustoJuarez/Machine-Learning-Journey)
