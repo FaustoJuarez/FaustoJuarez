@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fausto Juarez Yelamos</h1>
-<blockquote align="right">
+<blockquote align="center">
   “The computer was born to solve problems that did not exist before.”
-  <cite align="right">— Bill Gates</cite>
+  <cite align="center">— Bill Gates</cite>
 </blockquote>
 <p align="left"> <a href="https://twitter.com/faustojuarez96" target="blank"><img src="https://img.shields.io/twitter/follow/faustojuarez96?logo=twitter&style=for-the-badge" alt="faustojuarez96" /></a> </p>
 
