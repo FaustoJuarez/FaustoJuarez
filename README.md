@@ -22,7 +22,7 @@
 <a href="https://kaggle.com/fausto juarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fausto juarez" height="30" width="40" /></a>
 </p>
 
-## My Skill Set  
+## Languages and Tools  
 <table><tr><td valign="top" width="33%">
 
 ### Machine Learning  
@@ -37,7 +37,8 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 </div>
 
-
+</td><td valign="top" width="33%">
+  
 ### Frontend  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
