@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/faustojuarez96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faustojuarez96" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/faustojuarezyelamos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faustojuarezyelamos" height="30" width="40" /></a>
-<a href="https://kaggle.com/fausto juarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fausto juarez" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/faustojuarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fausto juarez" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools  
