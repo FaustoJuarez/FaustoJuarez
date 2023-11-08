@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Computer Vision Thesis](https://github.com/FaustoJuarez/Machine-Learning-Journey)
 
-- 🌱 I’m currently learning **OpenCV, Fast R-CNN**
+- 🌱 I’m currently learning **YOLOv8**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
