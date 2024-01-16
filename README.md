@@ -5,9 +5,9 @@
 </blockquote>
 <p align="left"> <a href="https://twitter.com/faustojuarez96" target="blank"><img src="https://img.shields.io/twitter/follow/faustojuarez96?logo=twitter&style=for-the-badge" alt="faustojuarez96" /></a> </p>
 
-- 🔭 I’m currently working on [Computer Vision Thesis](https://github.com/FaustoJuarez/Machine-Learning-Journey)
+- 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **YOLOv8**
+- 🌱 I’m currently learning **React - Node.js**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
