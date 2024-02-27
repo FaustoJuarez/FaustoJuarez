@@ -68,8 +68,11 @@
 
 <br/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faustojuarez&show_icons=true&locale=en&layout=compact" alt="faustojuarez" /></p>
+### ⚙️ &nbsp;GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faustojuarez&show_icons=true&locale=en" alt="faustojuarez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faustojuarez&" alt="faustojuarez" /></p>
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FaustoJuarez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FaustoJuarez&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p></div>
