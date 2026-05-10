@@ -192,22 +192,6 @@ It’s about reliability, orchestration, evaluation and production-ready executi
 
 ---
 
-<h2 align="center">GitHub Analytics</h2>
-
-<p align="center">
-  <img 
-    width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=FaustoJuarez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
-  />
-
-  <img 
-    width="37%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoJuarez&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
-  />
-</p>
-
----
-
 <div align="center">
 
 <h3>Current Goal</h3>
