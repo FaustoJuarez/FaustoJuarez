@@ -1,11 +1,14 @@
-````md
 <div align="center">
 
-# Fausto Juarez Yelamos
+<h1>Fausto Juarez Yelamos</h1>
 
-### AI Systems Engineer • LLMs • AI Agents • RAG • GenAI Infrastructure
+<h3>
+AI Systems Engineer • LLMs • AI Agents • RAG • GenAI Infrastructure
+</h3>
 
+<p>
 Building production-grade AI systems focused on reasoning, orchestration, retrieval and autonomous workflows.
+</p>
 
 <br/>
 
@@ -29,99 +32,123 @@ Building production-grade AI systems focused on reasoning, orchestration, retrie
 
 ---
 
-## About
+<h2>About</h2>
 
+<p>
 I design and build AI systems capable of orchestrating multi-step reasoning workflows, contextual memory handling, retrieval pipelines and secure tool execution for real-world applications.
+</p>
 
+<p>
 My current work focuses on:
+</p>
 
-- AI Agents & Agentic Workflows
-- Retrieval-Augmented Generation (RAG)
-- AI Orchestration Systems
-- Contextual Memory Architectures
-- LLM Evaluation Pipelines
-- Production AI Infrastructure
-- Computer Vision & Explainability
+<ul>
+  <li>AI Agents & Agentic Workflows</li>
+  <li>Retrieval-Augmented Generation (RAG)</li>
+  <li>AI Orchestration Systems</li>
+  <li>Contextual Memory Architectures</li>
+  <li>LLM Evaluation Pipelines</li>
+  <li>Production AI Infrastructure</li>
+  <li>Computer Vision & Explainability</li>
+</ul>
 
+<p>
 I’m particularly interested in scalable GenAI systems, autonomous workflows, multimodal architectures and production-grade AI engineering.
+</p>
 
 ---
 
-## Current Focus
+<h2>Current Focus</h2>
 
-```python
-focus_areas = {
-    "agentic_systems": [
-        "multi-agent workflows",
-        "tool orchestration",
-        "reasoning pipelines",
-        "contextual memory"
-    ],
+<table>
+<tr>
+<td>
 
-    "rag_systems": [
-        "retrieval optimization",
-        "embedding pipelines",
-        "vector databases",
-        "hallucination reduction"
-    ],
+<h3>Agentic Systems</h3>
 
-    "infrastructure": [
-        "FastAPI",
-        "Docker",
-        "Redis",
-        "PostgreSQL",
-        "async architectures"
-    ],
+<ul>
+  <li>Multi-agent workflows</li>
+  <li>Tool orchestration</li>
+  <li>Reasoning pipelines</li>
+  <li>Contextual memory</li>
+</ul>
 
-    "research": [
-        "computer vision",
-        "Grad-CAM",
-        "explainability",
-        "multimodal AI"
-    ]
-}
-````
+</td>
+
+<td>
+
+<h3>RAG Systems</h3>
+
+<ul>
+  <li>Retrieval optimization</li>
+  <li>Embedding pipelines</li>
+  <li>Vector databases</li>
+  <li>Hallucination reduction</li>
+</ul>
+
+</td>
+
+<td>
+
+<h3>Research</h3>
+
+<ul>
+  <li>Computer Vision</li>
+  <li>Grad-CAM</li>
+  <li>Explainability</li>
+  <li>Multimodal AI</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Areas
+<h2>Featured Areas</h2>
 
 <table>
 <tr>
 
 <td width="33%">
 
-### AI Agents
+<h3>AI Agents</h3>
 
-* Multi-step reasoning
-* Tool orchestration
-* Contextual memory
-* Autonomous workflows
-* Evaluation pipelines
-
-</td>
-
-<td width="33%">
-
-### RAG Systems
-
-* Vector databases
-* Embedding pipelines
-* Chunking optimization
-* Retrieval evaluation
-* Hallucination reduction
+<ul>
+  <li>Multi-step reasoning</li>
+  <li>Tool orchestration</li>
+  <li>Contextual memory</li>
+  <li>Autonomous workflows</li>
+  <li>Evaluation pipelines</li>
+</ul>
 
 </td>
 
 <td width="33%">
 
-### Computer Vision
+<h3>RAG Systems</h3>
 
-* YOLOv8 pipelines
-* Explainability
-* Grad-CAM
-* Detection systems
-* Applied AI
+<ul>
+  <li>Vector databases</li>
+  <li>Embedding pipelines</li>
+  <li>Chunking optimization</li>
+  <li>Retrieval evaluation</li>
+  <li>Hallucination reduction</li>
+</ul>
+
+</td>
+
+<td width="33%">
+
+<h3>Computer Vision</h3>
+
+<ul>
+  <li>YOLOv8 pipelines</li>
+  <li>Explainability</li>
+  <li>Grad-CAM</li>
+  <li>Detection systems</li>
+  <li>Applied AI</li>
+</ul>
 
 </td>
 
@@ -130,40 +157,42 @@ focus_areas = {
 
 ---
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
 <div align="center">
 
-### AI & Machine Learning
+<h3>AI & Machine Learning</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-### Backend & Infrastructure
+<h3>Backend & Infrastructure</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,redis,linux"/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,redis,linux" />
 </p>
 
-### Development & Tools
+<h3>Development & Tools</h3>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 </div>
 
 ---
 
-## Philosophy
+<h2>Philosophy</h2>
 
-> Building AI systems is not only about models.
-> It’s about reliability, orchestration, evaluation and production-ready execution.
+<blockquote>
+Building AI systems is not only about models.<br/>
+It’s about reliability, orchestration, evaluation and production-ready execution.
+</blockquote>
 
 ---
 
-## GitHub Analytics
+<h2>GitHub Analytics</h2>
 
 <div align="center">
 
@@ -177,9 +206,11 @@ focus_areas = {
 
 <div align="center">
 
-### Current Goal
+<h3>Current Goal</h3>
 
+<p>
 Building scalable AI systems and becoming a top-tier AI Systems Engineer focused on production GenAI architectures.
+</p>
 
 </div>
-```
+
