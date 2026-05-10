@@ -1,78 +1,92 @@
-<h1 align="center">Hi 👋, I'm Fausto Juarez Yelamos</h1>
-<blockquote align="center">
-  “The computer was born to solve problems that did not exist before.”
-  <cite align="center">— Bill Gates</cite>
-</blockquote>
-<p align="left"> <a href="https://twitter.com/faustojuarez96" target="blank"><img src="https://img.shields.io/twitter/follow/faustojuarez96?logo=twitter&style=for-the-badge" alt="faustojuarez96" /></a> </p>
+```md
+<h1 align="center">Fausto Juarez Yelamos</h1>
 
-- 🔭 I’m currently working on **Machine Learning**
+<h3 align="center">
+AI Systems Engineer focused on LLMs, AI Agents, RAG Systems and Production-Grade GenAI Architectures
+</h3>
 
-- 📚 I’m currently studying **Postgraduate in Artificial Intelligence**
+---
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+## About Me
 
-- 💬 Ask me about **Python, Machine Learning Algorithms**
+I design and build AI systems capable of orchestrating multi-step reasoning workflows, contextual memory handling, retrieval pipelines, and secure tool execution for real-world applications.
 
-- 📫 How to reach me **faustojuarezyelamos@gmail.com**
+My work focuses on:
+- LLM-based systems
+- AI Agents & Agentic Workflows
+- Retrieval-Augmented Generation (RAG)
+- AI Orchestration & Evaluation
+- Computer Vision
+- Production AI Infrastructure
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/faustojuarez96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faustojuarez96" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/faustojuarezyelamos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faustojuarezyelamos" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/faustojuarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fausto juarez" height="30" width="40" /></a>
-</p>
+I’m particularly interested in scalable AI systems, autonomous workflows, multimodal architectures, and production-ready GenAI applications.
 
-## Languages and Tools  
-<table><tr><td valign="top" width="33%">
+---
 
-### Machine Learning  
-<div align="center">  
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40"/></a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> 
-<!-- <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> -->  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-</div>
+## Current Focus
 
-</td><td valign="top" width="33%">
-  
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://es.react.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="React" height="50" /></a>  
-</div>
+- Building production-grade AI agent systems
+- Retrieval optimization and evaluation pipelines
+- AI orchestration architectures
+- Context-aware conversational systems
+- Applied computer vision and explainability
+- AI infrastructure and observability
 
-</td><td valign="top" width="33%">
+---
 
+## Featured Projects
 
+### Multi-Agent AI Platform
+Production-grade AI orchestration platform with:
+- contextual memory
+- tool execution
+- RAG pipelines
+- evaluations
+- observability
+- async workflows
 
-### Backend  
-<div align="center">  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<!--<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  -->
-</div>
+### Enterprise RAG System
+Scalable retrieval system using:
+- vector databases
+- embedding pipelines
+- chunking optimization
+- hallucination reduction workflows
 
-</td></tr></table>  
+### Computer Vision Research Systems
+Deep learning pipelines for:
+- object detection
+- explainability (Grad-CAM)
+- agricultural AI applications
+- multimodal processing
 
-<br/>  
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+## Tech Stack
+
+### AI & Machine Learning
+Python • LLMs • RAG • YOLOv8 • OpenCV • Scikit-learn • Keras • NLP
+
+### Backend & Infrastructure
+FastAPI • PostgreSQL • Docker • Linux • Redis • APIs • Git
+
+### Data & Analytics
+SQL • Pandas • Power BI • Tableau
+
+---
+
+## Connect With Me
+
+- LinkedIn: [<PRIVATE_LINKEDIN>](https://www.linkedin.com/in/faustojuarezyelamos/)
+- Email: faustojuarezyelamos@gmail.com
+
+---
+
+## GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/FaustoJuarez">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FaustoJuarez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FaustoJuarez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p></div>
+</p>
+```
