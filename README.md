@@ -192,15 +192,19 @@ It’s about reliability, orchestration, evaluation and production-ready executi
 
 ---
 
-<h2>GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
+  <img 
+    width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=FaustoJuarez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
+  />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=FaustoJuarez&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoJuarez&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+  <img 
+    width="37%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaustoJuarez&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" 
+  />
+</p>
 
 ---
 
